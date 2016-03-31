@@ -1,4 +1,4 @@
-(defproject org.spootnik/riemann-extra "0.2.4"
+(defproject org.spootnik/riemann-extra "0.2.4.anvil.1"
   :description "utility functions for riemann"
   :url "https://github.com/pyr/riemann-extra"
   :license {:name "Eclipse Public License"
